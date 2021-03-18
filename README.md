@@ -29,5 +29,3 @@ This Is Note
      
   return0;
   }
-  
-  second Code
