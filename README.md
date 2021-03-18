@@ -22,6 +22,8 @@ This Is Note
     }
   else 
      cout << "Welcome Boy " << A << "  Yor Age Is : "  << B << endl; 
+     
+ cout << "Thank You For Use Our Project"
   
    
      
